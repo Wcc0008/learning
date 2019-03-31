@@ -1,0 +1,2 @@
+this is a test file
+learn how to delete file from git
